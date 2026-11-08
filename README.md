@@ -1,6 +1,6 @@
 # Hôm nay ăn gì?
 
-Web app chọn món ăn: quay ngẫu nhiên theo bữa, ngân sách, số người, thời tiết và khẩu vị. Rút 3 món cho cả nhóm chọn, copy lời rủ đi ăn gửi nhóm chat.
+Web app chọn món ăn: quay ngẫu nhiên theo bữa, ngân sách, số người, thời tiết và khẩu vị. Rút 3 món cho cả nhóm chọn, copy lời rủ đi ăn gửi nhóm chat. Lọc món theo bệnh nền (mỡ máu, huyết áp, tiểu đường, dạ dày, gout) và tìm quán ăn quanh bạn.
 
 👉 https://lehaiquangvp.github.io/HomNayAnGi/
 
